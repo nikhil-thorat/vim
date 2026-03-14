@@ -22,3 +22,6 @@ set nocompatible
 
 " netrw stuff
 filetype plugin on
+
+" for copying to system clipboard
+set clipboard=unnamedplus
